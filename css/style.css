@@ -1,13 +1,86 @@
-.card{
-    width: 440px;
-    margin: 15px;
-    display: inline-block;
-}
-
 .intro-mock{
     width:40%;
     margin-top: 15px;
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+.nav{
+    color:#AFB29B;
+}
+
+.col{
+    margin: 15px;
+    display: inline-block;
+}
+
+.o-text{
+    width:400px;
+}
+
+#pic-bg{
+    color: #AFB29B;
+}
+.da-process{
+    width: 600px;
+    margin-top: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.key-swatch{
+width:3%;
+padding:5px;
+}
+
+.user-sq-graphic{
+    width: 50%;
+}
+#id-text{
+    padding: 10px;
+}
+
+.UP{
+    width: 700px;
+    margin-top: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+#id-pi{
+    width: 200px;
+    margin-top: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+#userflow{
+    width: 400px;
+    margin-top: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+.lo-fi-proto{
+    width: 70%;
+    margin-top: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+#fin-mock{
+    width: 70%;
+    margin-top: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+h5,h6,h7{
+    padding:10px;
 }
