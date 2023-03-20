@@ -1,0 +1,13 @@
+.card{
+    width: 440px;
+    margin: 15px;
+    display: inline-block;
+}
+
+.intro-mock{
+    width:40%;
+    margin-top: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
